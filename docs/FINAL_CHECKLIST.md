@@ -1,0 +1,26 @@
+# Final Deliverable Checklist
+
+- [x] 5,000–10,000 realistic transactions
+- [x] Raw dataset
+- [x] Cleaned dataset
+- [x] Python data-generation script
+- [x] Python cleaning script
+- [x] EDA notebook
+- [x] Pandas analysis
+- [x] NumPy analysis
+- [x] Matplotlib visualizations
+- [x] MySQL database schema
+- [x] SQL schema
+- [x] 30+ SQL queries
+- [x] Excel dashboard
+- [x] Pivot-style analytical summaries
+- [x] Excel formulas and lookup examples
+- [x] Business insights
+- [x] Business recommendations
+- [x] Data quality report
+- [x] README
+- [x] GitHub structure
+- [x] Portfolio description
+- [x] Resume bullets
+- [x] Interview questions
+- [x] Interview answers

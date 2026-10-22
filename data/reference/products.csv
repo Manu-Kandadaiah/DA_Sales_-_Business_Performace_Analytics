@@ -1,0 +1,151 @@
+Product_ID,Product_Name,Category,Subcategory,Brand,Unit_Cost,Unit_Price
+P0001,Astra Vision 100,Electronics,Monitors,Astra,22931.39,29980.0
+P0002,Vertex OfficeCam 117,Electronics,Cameras,Vertex,23783.42,27260.0
+P0003,Nimbus DeskHub 134,Electronics,Smart Devices,Nimbus,21759.63,29520.0
+P0004,Orion Vision 151,Electronics,Monitors,Orion,14243.52,18490.0
+P0005,Zenova OfficeCam 168,Electronics,Cameras,Zenova,18618.78,25360.0
+P0006,Trident DeskHub 185,Electronics,Smart Devices,Trident,7987.04,10570.0
+P0007,Quanta Vision 202,Electronics,Monitors,Quanta,23893.0,31880.0
+P0008,Axion OfficeCam 219,Electronics,Cameras,Axion,10900.17,15090.0
+P0009,Nexora DeskHub 236,Electronics,Smart Devices,Nexora,23634.84,30130.0
+P0010,Prismatek Vision 253,Electronics,Monitors,Prismatek,3197.89,4060.0
+P0011,BluePeak OfficeCam 270,Electronics,Cameras,BluePeak,20912.02,28940.0
+P0012,Corevia DeskHub 287,Electronics,Smart Devices,Corevia,13184.12,15650.0
+P0013,Astra Vision 304,Electronics,Monitors,Astra,5417.42,7110.0
+P0014,Vertex OfficeCam 321,Electronics,Cameras,Vertex,20104.93,26280.0
+P0015,Nimbus DeskHub 338,Electronics,Smart Devices,Nimbus,23576.58,32050.0
+P0016,Vertex ProBook 100,Computers,Laptops,Vertex,38855.31,48850.0
+P0017,Nimbus WorkStation 117,Computers,Desktops,Nimbus,36238.8,39390.0
+P0018,Orion ComputeCore 134,Computers,Components,Orion,70740.32,89140.0
+P0019,Zenova ProBook 151,Computers,Laptops,Zenova,53982.0,67100.0
+P0020,Trident WorkStation 168,Computers,Desktops,Trident,24094.96,30250.0
+P0021,Quanta ComputeCore 185,Computers,Components,Quanta,61905.03,78480.0
+P0022,Axion ProBook 202,Computers,Laptops,Axion,62190.49,77230.0
+P0023,Nexora WorkStation 219,Computers,Desktops,Nexora,17360.83,21300.0
+P0024,Prismatek ComputeCore 236,Computers,Components,Prismatek,48240.42,61710.0
+P0025,BluePeak ProBook 253,Computers,Laptops,BluePeak,20058.34,24240.0
+P0026,Corevia WorkStation 270,Computers,Desktops,Corevia,71547.01,88830.0
+P0027,Astra ComputeCore 287,Computers,Components,Astra,79948.32,89080.0
+P0028,Vertex ProBook 304,Computers,Laptops,Vertex,30424.33,35870.0
+P0029,Nimbus WorkStation 321,Computers,Desktops,Nimbus,77475.52,95290.0
+P0030,Orion ComputeCore 338,Computers,Components,Orion,59995.93,71610.0
+P0031,Nimbus WaveRouter 100,Networking,Routers,Nimbus,15370.95,21070.0
+P0032,Orion NetSwitch 117,Networking,Switches,Orion,23544.93,29030.0
+P0033,Zenova WiFiPro 134,Networking,Wireless,Zenova,4713.03,6900.0
+P0034,Trident WaveRouter 151,Networking,Routers,Trident,23661.53,32030.0
+P0035,Quanta NetSwitch 168,Networking,Switches,Quanta,24901.87,35440.0
+P0036,Axion WiFiPro 185,Networking,Wireless,Axion,10201.04,13560.0
+P0037,Nexora WaveRouter 202,Networking,Routers,Nexora,15984.5,21490.0
+P0038,Prismatek NetSwitch 219,Networking,Switches,Prismatek,20003.92,26820.0
+P0039,BluePeak WiFiPro 236,Networking,Wireless,BluePeak,24283.45,34570.0
+P0040,Corevia WaveRouter 253,Networking,Routers,Corevia,20613.57,28900.0
+P0041,Astra NetSwitch 270,Networking,Switches,Astra,3960.71,5450.0
+P0042,Vertex WiFiPro 287,Networking,Wireless,Vertex,18826.96,23140.0
+P0043,Nimbus WaveRouter 304,Networking,Routers,Nimbus,4470.44,6270.0
+P0044,Orion NetSwitch 321,Networking,Switches,Orion,29803.53,41770.0
+P0045,Zenova WiFiPro 338,Networking,Wireless,Zenova,20720.94,27330.0
+P0046,Orion PrintPro 100,Office Equipment,Printers,Orion,32570.87,43580.0
+P0047,Zenova DocScan 117,Office Equipment,Scanners,Zenova,37373.16,43930.0
+P0048,Trident MeetCast 134,Office Equipment,Projectors,Trident,39177.41,50740.0
+P0049,Quanta PrintPro 151,Office Equipment,Printers,Quanta,24225.96,31530.0
+P0050,Axion DocScan 168,Office Equipment,Scanners,Axion,5006.42,6730.0
+P0051,Nexora MeetCast 185,Office Equipment,Projectors,Nexora,12419.28,16220.0
+P0052,Prismatek PrintPro 202,Office Equipment,Printers,Prismatek,46289.33,58780.0
+P0053,BluePeak DocScan 219,Office Equipment,Scanners,BluePeak,47275.78,63160.0
+P0054,Corevia MeetCast 236,Office Equipment,Projectors,Corevia,61965.11,78280.0
+P0055,Astra PrintPro 253,Office Equipment,Printers,Astra,38540.31,49390.0
+P0056,Vertex DocScan 270,Office Equipment,Scanners,Vertex,54657.25,69660.0
+P0057,Nimbus MeetCast 287,Office Equipment,Projectors,Nimbus,23995.45,28270.0
+P0058,Orion PrintPro 304,Office Equipment,Printers,Orion,63650.89,79880.0
+P0059,Zenova DocScan 321,Office Equipment,Scanners,Zenova,29085.58,39810.0
+P0060,Trident MeetCast 338,Office Equipment,Projectors,Trident,47936.62,64890.0
+P0061,Zenova ChargeMax 100,Mobile Accessories,Chargers,Zenova,1916.87,3020.0
+P0062,Trident PowerVault 117,Mobile Accessories,Power Banks,Trident,2670.0,3760.0
+P0063,Quanta ConnectCord 134,Mobile Accessories,Cables,Quanta,2683.81,4200.0
+P0064,Axion ChargeMax 151,Mobile Accessories,Chargers,Axion,1033.79,1590.0
+P0065,Nexora PowerVault 168,Mobile Accessories,Power Banks,Nexora,736.05,1140.0
+P0066,Prismatek ConnectCord 185,Mobile Accessories,Cables,Prismatek,3124.78,4850.0
+P0067,BluePeak ChargeMax 202,Mobile Accessories,Chargers,BluePeak,2532.8,4350.0
+P0068,Corevia PowerVault 219,Mobile Accessories,Power Banks,Corevia,718.18,1090.0
+P0069,Astra ConnectCord 236,Mobile Accessories,Cables,Astra,623.96,1030.0
+P0070,Vertex ChargeMax 253,Mobile Accessories,Chargers,Vertex,1789.2,2960.0
+P0071,Nimbus PowerVault 270,Mobile Accessories,Power Banks,Nimbus,822.02,1380.0
+P0072,Orion ConnectCord 287,Mobile Accessories,Cables,Orion,3034.78,4160.0
+P0073,Zenova ChargeMax 304,Mobile Accessories,Chargers,Zenova,1179.74,1900.0
+P0074,Trident PowerVault 321,Mobile Accessories,Power Banks,Trident,3357.43,5270.0
+P0075,Quanta ConnectCord 338,Mobile Accessories,Cables,Quanta,295.48,480.0
+P0076,Trident AirPure 100,Home Appliances,Air Care,Trident,4863.73,6410.0
+P0077,Quanta QuickBlend 117,Home Appliances,Kitchen,Quanta,32622.19,40660.0
+P0078,Axion DustAway 134,Home Appliances,Cleaning,Axion,25062.57,34210.0
+P0079,Nexora AirPure 151,Home Appliances,Air Care,Nexora,2215.29,2910.0
+P0080,Prismatek QuickBlend 168,Home Appliances,Kitchen,Prismatek,25479.59,33910.0
+P0081,BluePeak DustAway 185,Home Appliances,Cleaning,BluePeak,18439.29,26320.0
+P0082,Corevia AirPure 202,Home Appliances,Air Care,Corevia,13780.02,18620.0
+P0083,Astra QuickBlend 219,Home Appliances,Kitchen,Astra,19721.91,28150.0
+P0084,Vertex DustAway 236,Home Appliances,Cleaning,Vertex,9057.87,12060.0
+P0085,Nimbus AirPure 253,Home Appliances,Air Care,Nimbus,26426.75,34700.0
+P0086,Orion QuickBlend 270,Home Appliances,Kitchen,Orion,19609.8,25860.0
+P0087,Zenova DustAway 287,Home Appliances,Cleaning,Zenova,12200.03,14550.0
+P0088,Trident AirPure 304,Home Appliances,Air Care,Trident,6568.08,8790.0
+P0089,Quanta QuickBlend 321,Home Appliances,Kitchen,Quanta,5224.5,6800.0
+P0090,Axion DustAway 338,Home Appliances,Cleaning,Axion,7006.42,9150.0
+P0091,Quanta SoundPro 100,Audio,Headsets,Quanta,12935.66,19350.0
+P0092,Axion AudioCube 117,Audio,Speakers,Axion,10344.69,14570.0
+P0093,Nexora MeetMic 134,Audio,Microphones,Nexora,1425.8,2080.0
+P0094,Prismatek SoundPro 151,Audio,Headsets,Prismatek,5011.95,7660.0
+P0095,BluePeak AudioCube 168,Audio,Speakers,BluePeak,1494.35,2230.0
+P0096,Corevia MeetMic 185,Audio,Microphones,Corevia,2317.96,3660.0
+P0097,Astra SoundPro 202,Audio,Headsets,Astra,17966.16,25960.0
+P0098,Vertex AudioCube 219,Audio,Speakers,Vertex,15764.65,25360.0
+P0099,Nimbus MeetMic 236,Audio,Microphones,Nimbus,14282.2,22020.0
+P0100,Orion SoundPro 253,Audio,Headsets,Orion,2989.87,4550.0
+P0101,Zenova AudioCube 270,Audio,Speakers,Zenova,16004.24,24140.0
+P0102,Trident MeetMic 287,Audio,Microphones,Trident,13830.79,18230.0
+P0103,Quanta SoundPro 304,Audio,Headsets,Quanta,9233.09,13850.0
+P0104,Axion AudioCube 321,Audio,Speakers,Axion,7283.68,10860.0
+P0105,Nexora MeetMic 338,Audio,Microphones,Nexora,7212.67,11180.0
+P0106,Axion GamePad 100,Gaming,Controllers,Axion,37285.74,55100.0
+P0107,Nexora StrikeBoard 117,Gaming,Keyboards,Nexora,15625.23,19850.0
+P0108,Prismatek ArenaScreen 134,Gaming,Gaming Displays,Prismatek,26239.77,38270.0
+P0109,BluePeak GamePad 151,Gaming,Controllers,BluePeak,27006.1,37150.0
+P0110,Corevia StrikeBoard 168,Gaming,Keyboards,Corevia,8819.09,12700.0
+P0111,Astra ArenaScreen 185,Gaming,Gaming Displays,Astra,26800.36,36100.0
+P0112,Vertex GamePad 202,Gaming,Controllers,Vertex,4050.75,6000.0
+P0113,Nimbus StrikeBoard 219,Gaming,Keyboards,Nimbus,38178.82,55660.0
+P0114,Orion ArenaScreen 236,Gaming,Gaming Displays,Orion,31333.74,45650.0
+P0115,Zenova GamePad 253,Gaming,Controllers,Zenova,10956.56,15590.0
+P0116,Trident StrikeBoard 270,Gaming,Keyboards,Trident,26653.94,36200.0
+P0117,Quanta ArenaScreen 287,Gaming,Gaming Displays,Quanta,26722.63,33710.0
+P0118,Axion GamePad 304,Gaming,Controllers,Axion,30591.43,44590.0
+P0119,Nexora StrikeBoard 321,Gaming,Keyboards,Nexora,23818.17,35260.0
+P0120,Prismatek ArenaScreen 338,Gaming,Gaming Displays,Prismatek,5832.42,7850.0
+P0121,Nexora SecureSuite 100,Software,Security,Nexora,5278.2,13260.0
+P0122,Prismatek TeamSuite 117,Software,Productivity,Prismatek,5060.49,10810.0
+P0123,BluePeak CloudProtect 134,Software,Backup,BluePeak,3873.47,8990.0
+P0124,Corevia SecureSuite 151,Software,Security,Corevia,2572.54,5740.0
+P0125,Astra TeamSuite 168,Software,Productivity,Astra,5929.11,13810.0
+P0126,Vertex CloudProtect 185,Software,Backup,Vertex,6596.91,17130.0
+P0127,Nimbus SecureSuite 202,Software,Security,Nimbus,6452.67,15010.0
+P0128,Orion TeamSuite 219,Software,Productivity,Orion,8395.99,21870.0
+P0129,Zenova CloudProtect 236,Software,Backup,Zenova,10512.18,25700.0
+P0130,Trident SecureSuite 253,Software,Security,Trident,7348.74,18140.0
+P0131,Quanta TeamSuite 270,Software,Productivity,Quanta,5625.86,14280.0
+P0132,Axion CloudProtect 287,Software,Backup,Axion,7271.5,14410.0
+P0133,Nexora SecureSuite 304,Software,Security,Nexora,10990.78,27650.0
+P0134,Prismatek TeamSuite 321,Software,Productivity,Prismatek,11654.85,29910.0
+P0135,BluePeak CloudProtect 338,Software,Backup,BluePeak,11422.61,25300.0
+P0136,Prismatek FileBox 100,Office Supplies,Storage,Prismatek,718.19,1310.0
+P0137,BluePeak PowerStrip 117,Office Supplies,Power,BluePeak,2120.76,3080.0
+P0138,Corevia CableHub 134,Office Supplies,Desk Accessories,Corevia,1411.64,2580.0
+P0139,Astra FileBox 151,Office Supplies,Storage,Astra,415.11,670.0
+P0140,Vertex PowerStrip 168,Office Supplies,Power,Vertex,4096.85,7370.0
+P0141,Nimbus CableHub 185,Office Supplies,Desk Accessories,Nimbus,6295.76,10230.0
+P0142,Orion FileBox 202,Office Supplies,Storage,Orion,6224.28,11150.0
+P0143,Zenova PowerStrip 219,Office Supplies,Power,Zenova,6229.56,10100.0
+P0144,Trident CableHub 236,Office Supplies,Desk Accessories,Trident,996.98,1720.0
+P0145,Quanta FileBox 253,Office Supplies,Storage,Quanta,4222.11,7650.0
+P0146,Axion PowerStrip 270,Office Supplies,Power,Axion,5368.46,8880.0
+P0147,Nexora CableHub 287,Office Supplies,Desk Accessories,Nexora,5339.4,8590.0
+P0148,Prismatek FileBox 304,Office Supplies,Storage,Prismatek,507.92,890.0
+P0149,BluePeak PowerStrip 321,Office Supplies,Power,BluePeak,5992.81,10640.0
+P0150,Corevia CableHub 338,Office Supplies,Desk Accessories,Corevia,805.07,1330.0

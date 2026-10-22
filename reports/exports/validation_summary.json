@@ -1,0 +1,16 @@
+{
+  "clean_rows": 8000,
+  "raw_rows": 8050,
+  "raw_duplicates": 50,
+  "clean_duplicates": 0,
+  "missing_before_total": 138,
+  "missing_after_total": 0,
+  "negative_quantity": 0,
+  "negative_price": 0,
+  "revenue_formula_mismatches": 0,
+  "profit_formula_mismatches": 0,
+  "invalid_dates": 0,
+  "invalid_product_ids": 0,
+  "invalid_customer_ids": 0,
+  "invalid_salesperson_ids": 0
+}
